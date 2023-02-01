@@ -3,4 +3,8 @@
   flex-direction: column;
   justify-content: start;
   width: 240px;
+  margin-right: 100px;
+}
+.cards__item:nth-child(3n) {
+  margin: 0;
 }
