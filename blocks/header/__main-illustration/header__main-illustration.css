@@ -1,0 +1,11 @@
+.header__main-illustration {
+  object-fit: contain;
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  background-image: url("../../../images/header-image.png");
+  background-size: 765px 608px;
+}
